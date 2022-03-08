@@ -1,5 +1,5 @@
-Junior Front-End in Web Technologies and in the last year of university (System Engineer).
-My skills are HTML, CSS, Javascript. Learning React and Angular.
+- Junior Front-End in Web Technologies and in the last year of university (System Engineer).
+- My skills are HTML, CSS, Javascript. Learning React and Angular.
 - 📫 How to reach me, send me a request/message
 
 <!---
